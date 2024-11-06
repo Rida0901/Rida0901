@@ -1,5 +1,5 @@
 ## Hey 👋, This is Rida Faiz
-[![Gmail Badge](https://img.shields.io/badge/-Rida.Faiz-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rida.faiz2001@gmail.com)](mailto:rida.faiz2001@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-rida.faiz2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rida.faiz2001@gmail.com)](mailto:rida.faiz2001@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Rida.Faiz-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rida-faiz/)](https://www.linkedin.com/in/rida-faiz/) 
 [![Github Badge](https://img.shields.io/badge/-Rida.Faiz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Rida0901/)](https://www.github.com/Rida0901/) <p align='left'>
 Hi! I'm Rida, a business intelligence analyst with skills in business analytics, data visualization and storytelling, Python, SQL, Tableau, and Power BI. I am eager to leverage my data visualization and storytelling skills to drive growth and boost sales.
